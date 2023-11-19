@@ -1,0 +1,8 @@
+html, body{
+    background:#ffe400;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    height:100%;
+    font-family: "Open sans";
+}
